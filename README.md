@@ -1,4 +1,4 @@
-Public database is the following:
+The public database is available at the following URL:
 https://dmsgrdm.riken.jp:5000/wbpyk/
 
 This repository contains the facial expression database described in the following paper:
